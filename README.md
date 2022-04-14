@@ -39,7 +39,7 @@ Address: `localhost:9000/draw-cards`
 A put request to draw cards from a specified deck, body parameters: 
 ```
 {
-    "id": "b530fe1f-bc3b-495c-b696-849082331818",
+    "id": "{{deckId}}",
     "number": 2
 }
 ```
