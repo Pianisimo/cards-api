@@ -13,8 +13,8 @@ This projects uses:
 ### Compiling and running
 
 - Go to the root of the project and in the terminal run the command `go mod tidy`
-- Configure the .env file, if you intend to test locally you should leave `ADDRESS=localhost` but if you intend to test in a server change localhost to the public ipv4 address of the server and make user it has permission to listen to the specifies port
-- That's all if go is propperly installed just run `go run main.go` from the root directory
+- Configure the .env file, if you intend to test locally you should leave `ADDRESS=localhost` but if you intend to test in a server change localhost to the public ipv4 address of the server and make sure it has permission to listen to the specified port
+- That's all, if go is propperly installed just run `go run main.go` from the root directory
 
 ### Postman Requests for testing
 
@@ -57,7 +57,7 @@ For debugging purposes there's a method to list all decks
 
 ## Remote Debugging
 
-Feel free to my personal EC instance for testing request, Follow the link to the postman collection pointing to it
+Feel free to use my personal EC instance for testing all the request, Follow the link to the postman collection pointing to it
 
 [Postman collection]([Postman collection](https://www.postman.com/crimson-flare-4229/workspace/cards-api/collection/10761195-6f9ba5ca-66c5-4a0f-b006-4bbff1f5dab2?action=share&creator=10761195))
 
