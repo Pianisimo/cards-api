@@ -13,7 +13,7 @@ This projects uses:
 ### Compiling and running
 
 - Go to the root of the project and in the terminal run the command `go mod tidy`
-- Configure the .env file, if you intend to test locally you should leave `ADDRESS=localhost` but if you intend to test in a server change localhost to the public ipv4 address of the server and make user it has permission to listen to the specifies port
+- Configure the .env file, if you intend to test locally you should leave `ADDRESS=localhost` but if you intend to test in a server change localhost to the public ipv4 address of the server and make sure it has permission to listen to the specifies port
 - That's all if go is propperly installed just run `go run main.go` from the root directory
 
 ### Postman Requests for testing
