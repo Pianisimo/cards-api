@@ -59,5 +59,5 @@ For debugging purposes there's a method to list all decks
 
 Feel free to use my personal EC instance for testing all the request, Follow the link to the postman collection pointing to it
 
-[Postman collection]([Postman collection](https://www.postman.com/crimson-flare-4229/workspace/cards-api/collection/10761195-6f9ba5ca-66c5-4a0f-b006-4bbff1f5dab2?action=share&creator=10761195))
+[Postman collection](https://www.postman.com/crimson-flare-4229/workspace/cards-api/collection/10761195-6f9ba5ca-66c5-4a0f-b006-4bbff1f5dab2?action=share&creator=10761195)
 
