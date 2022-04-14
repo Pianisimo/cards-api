@@ -1,3 +1,9 @@
+/*
+For a simple project made no sense creating a file which manages the repositories with the logic around which
+database or memory to use, on larger project would make much more sense to create that file and maybe add all
+the databases into an array of repositories and decide which one to use.
+*/
+
 package routes
 
 import (

@@ -33,6 +33,6 @@ func setupRoutes(app *fiber.App) {
 	// TODO
 	/*
 		Setup more routes, public routes should in routes/public
-		Private routes that requires authentication of admin permission should go in routes/private
+		Private routes that requires authentication or admin permission should go in routes/private
 	*/
 }
